@@ -122,6 +122,8 @@ A collection of HTML head elements.
 <meta property="og:type" content="website">
 <meta property="og:title" content="Content Title">
 <meta property="og:image" content="https://example.com/image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:description" content="Description Here">
 <meta property="og:site_name" content="Site Name">
 <meta property="og:locale" content="en_US">
